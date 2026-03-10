@@ -48,8 +48,6 @@ My GitHub repositories cover:
 
 Feel free to browse and star any project that interests you or open a pull request to collaborate.
 
-📊 GitHub Stats
-<!-- GitHub stats courtesy of github-readme-stats --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smartboy223&show_icons=true&theme=default" alt="smartboy223's GitHub stats"/> </p>
 🤝 Collaboration
 
 I’m always open to collaborating on:
@@ -65,7 +63,5 @@ You can reach me via GitHub or connect through professional networks to discuss 
 📫 Contact
 
 GitHub: smartboy223
-
-Location: Seeb, Muscat, Oman (GMT+4)
 
 "Security isn’t about blocking everything—it's about understanding everything."
