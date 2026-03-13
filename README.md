@@ -1,67 +1,41 @@
-👋 Hello, I'm smartboy223
+# 👋 Hi, I'm smartboy223
 
-🔐 About Me
+Cybersecurity analyst focused on threat detection, security tooling, and automation.
 
-I'm a cybersecurity analyst and automation enthusiast passionate about threat detection, security operations, and continuous improvement. My daily work revolves around analyzing threats, developing and optimizing security tools, and building efficient operational workflows.
+I build practical projects for reconnaissance, IOC analysis, workflow improvement, and defensive security operations.
 
-🧠 Threat Detection & Hunting: Identifying and analyzing advanced threats using behavioral analytics and network data.
+## 🔐 What I Work On
+- Threat detection and security analysis
+- Malware, IOC, and network traffic investigation
+- SOC-oriented tooling and operational workflows
+- Automation with Python, PowerShell, Bash, and Batch
+- Linux, Windows, Docker, and lab environments
 
-🛡️ Security Operations: Experience with SIEM platforms, SOC procedures, and incident analysis.
+## 🎓 Certification
+- CompTIA CySA+
 
-🧪 Malware & Forensics: Investigating malicious binaries and traffic, mapping them to MITRE ATT&CK.
+## 🚀 Featured Work
+- **Domain reconnaissance & exposure analysis**
+- **Bulk VirusTotal scanning and IOC workflows**
+- **Browser automation and productivity extensions**
+- **PowerShell utilities for daily troubleshooting**
 
-⚙️ Automation: Building scripts in Python, PowerShell, Bash, and Batch to reduce manual workload and improve consistency.
+## 🛠️ Tools & Tech
+Python • PowerShell • Bash • Batch • Docker • Security Onion • Elasticsearch • OpenCTI • Nuclei • SIEM workflows
 
-📡 Networks & Systems: Securing Linux and Windows environments and tuning system monitoring.
+## 🔬 Current Focus
+- Building better CTI and SOC dashboards
+- Automating repetitive security tasks
+- Researching DGA and infrastructure analysis
+- Exploring AI-assisted security workflows
 
-🎓 Certifications
+## 🤝 Open to Collaborate On
+- Threat intelligence projects
+- Security automation tools
+- Malware and IOC analysis
+- Defensive security research
 
-CompTIA CySA+ (Cybersecurity Analyst) – validated my skills in threat detection, incident response, and security analytics.
+## 📫 Contact
+GitHub: **smartboy223**
 
-⚙️ Technical Skills
-Domain	Skills
-Security Analysis	Threat Hunting, Incident Response, Log & Network Traffic Analysis, Malware Investigation
-Automation	Python, PowerShell, Bash, Batch scripting
-Platforms & Tools	Security Onion, Elasticsearch, SIEMs, Nuclei, OpenCTI, Docker
-Operating Systems	Linux, Windows, Virtualized Labs
-🔬 Current Focus
-
-I’m currently focused on:
-
-Developing cyber threat intelligence dashboards to improve visibility.
-
-Automating repetitive SOC workflows to accelerate incident handling.
-
-Researching DNS-based DGA detection and malware infrastructure analysis.
-
-Experimenting with AI-assisted security analysis for better triage and prioritization.
-
-🚀 Projects
-
-My GitHub repositories cover:
-
-✨ Security Research – Tools and scripts for analyzing malware, logs, and network traffic.
-
-🔧 Automation Utilities – Scripts that streamline repetitive tasks in Python, PowerShell, and Bash.
-
-🧰 Threat Intelligence – Integrations with open-source CTI platforms and dashboards.
-
-Feel free to browse and star any project that interests you or open a pull request to collaborate.
-
-🤝 Collaboration
-
-I’m always open to collaborating on:
-
-Threat intelligence and malware analysis projects.
-
-Security automation tools and frameworks.
-
-Defensive security research and SOC initiatives.
-
-You can reach me via GitHub or connect through professional networks to discuss ideas.
-
-📫 Contact
-
-GitHub: smartboy223
-
-"Security isn’t about blocking everything—it's about understanding everything."
+> I don’t hunt bugs… my scripts attract them.
